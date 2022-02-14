@@ -3,7 +3,7 @@
 
 ## Installation
 ```
-pip3 install restidy==0.1.9
+pip3 install restidy==0.2.0
 ```
 
 
