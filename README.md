@@ -2,7 +2,10 @@
 
 
 ## Installation
+```
 pip3 install restidy==0.1.9
+```
+
 
 ## Usage
 ```
