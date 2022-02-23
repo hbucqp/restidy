@@ -21,7 +21,7 @@ requirements = [
 
 setup(
     name="restidy",
-    version="0.1.8",
+    version="0.2.2",
     keywords=["pip", "wgs", "resfinder"],
     description="resfinder result tidy",
     long_description="Organize resfinder result to tabluar format",

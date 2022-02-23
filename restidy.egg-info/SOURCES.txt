@@ -2,10 +2,13 @@
 MANIFEST.in
 README.md
 requirements.txt
+restidy.spec
 setup.py
+__pycache__/restidy.cpython-39.pyc
 restidy/.DS_Store
 restidy/__init__.py
 restidy/gene_db_mapping.tsv
+restidy/gene_drugs_mapping.tsv
 restidy/restidy.py
 restidy.egg-info/PKG-INFO
 restidy.egg-info/SOURCES.txt
