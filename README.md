@@ -63,7 +63,7 @@ restidy -i PATH_TO/demo_data -o OUTPUT_DIR
 restidy -i < resfinder4.0_result_directory > -o < output_file_directory >
 
 Author: Qingpo Cui(SZQ Lab, China Agricultural University)
-Version=0.2.5
+Version=0.2.6
 
 optional arguments:
   -h, --help  show this help message and exit
