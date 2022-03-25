@@ -19,4 +19,6 @@ restidy.egg-info/top_level.txt
 restidy/__pycache__/__init__.cpython-39.pyc
 restidy/__pycache__/restidy.cpython-39.pyc
 restidy/db/gene_db_mapping.tsv
+test/drug_pivot.csv
+test/point_sum.csv
 test/resfinder_sum.csv

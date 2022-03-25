@@ -4,7 +4,7 @@
 #############################################
 # File Name: setup.py
 # Author: Jake Cui
-# Mail: hbucqp1991@sina.cn
+# Mail: cqp@cau.edu.cn
 # Created Time:  2022-02-10 19:17:34
 #############################################
 
@@ -21,14 +21,14 @@ requirements = [
 
 setup(
     name="restidy",
-    version="0.2.2",
+    version="0.2.6",
     keywords=["pip", "wgs", "resfinder"],
     description="resfinder result tidy",
     long_description="Organize resfinder result to tabluar format",
     license="MIT Licence",
     url="https://github.com/hbucqp/restidy",
     author="Jake Cui",
-    author_email="hbucqp1991@sina.cn",
+    author_email="cqp@cau.edu.cn",
     packages=find_packages(),
     # include_package_data=True,
     package_data={'': ['*.tsv']},
