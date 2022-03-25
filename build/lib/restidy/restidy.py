@@ -137,7 +137,11 @@ def amr_concatenate(df_resistance, df_point):
         df3 = df1
     df_amr_concat = df3.groupby('Strain')['AMR'].apply(
         lambda x: ','.join(x.unique())).reset_index()
-    return df_amr_concat
+    # Get the number of ARGs
+    df_amr_concat['NUM_of_AMRs'] = df_amr_concat['AMR'].str.split(
+        ',').str.len()
+    df_amr_statistic = df_amr_concat[['Strain', 'NUM_of_AMRs', 'AMR']].copy()
+    return df_amr_statistic
 
 
 def main():
