@@ -49,7 +49,7 @@ output
 ## Installation
 Using pip:
 ```
-pip3 install restidy==0.2.5
+pip3 install restidy==0.2.6
 ```
 
 You could run the following command to run a test to check if restidy have been correctly installed.
