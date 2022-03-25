@@ -1,5 +1,6 @@
 restidy
 ===
+![PYPI](https://img.shields.io/pypi/v/restidy)
 
 ## Introduction
 
@@ -71,6 +72,3 @@ optional arguments:
   -o O        <output_file_path>: output_file_path
   -p P        True of False to process point mutation results
 ```
-
-
-https://img.shields.io/pypi/v/restidy
