@@ -50,7 +50,7 @@ output
 ## Installation
 Using pip:
 ```
-pip3 install restidy==0.2.6
+pip3 install restidy==0.2.8
 ```
 
 You could run the following command to run a test to check if restidy have been correctly installed.
@@ -61,14 +61,14 @@ restidy -i PATH_TO/demo_data -o OUTPUT_DIR
 
 ## Usage
 ```
-restidy -i < resfinder4.0_result_directory > -o < output_file_directory >
+usage: restidy -i < resfinder4.0_result_directory > -o < output_file_directory >
 
 Author: Qingpo Cui(SZQ Lab, China Agricultural University)
-Version=0.2.6
 
 optional arguments:
-  -h, --help  show this help message and exit
-  -i I        <input_path>: resfinder_result_path
-  -o O        <output_file_path>: output_file_path
-  -p P        True of False to process point mutation results
+  -h, --help     show this help message and exit
+  -i I           <input_path>: resfinder_result_path
+  -o O           <output_file_path>: output_file_path
+  -p P           True of False to process point mutation results
+  -v, --version  Display version
 ```
