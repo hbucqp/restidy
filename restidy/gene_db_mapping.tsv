@@ -2538,3 +2538,16 @@ trimethoprim	dfrB8
 trimethoprim	dfrD
 trimethoprim	dfrG
 trimethoprim	dfrK
+aminoglycoside	16S_rrsB
+aminoglycoside	16S_rrsC
+aminoglycoside	16S_rrsH
+Unknown	23S
+Unknown	ampC_promoter_size_53bp
+sulphonamide	folP
+quinolone	gyrA
+quinolone	gyrB
+quinolone	parC
+quinolone	parE
+quinolone	pmrA
+quinolone	pmrB
+rifampicin	rpoB

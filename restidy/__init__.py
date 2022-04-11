@@ -1,3 +1,3 @@
-__author__ = 'Jake Cui'
-__email__ = 'hbucqp1991@sina.cn'
-__version__ = '0.1.4'
+__author__ = 'Qingpo Cui'
+__email__ = 'cqp@cau.edu.cn'
+__version__ = "0.2.8"
